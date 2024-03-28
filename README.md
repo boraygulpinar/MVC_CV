@@ -1,4 +1,4 @@
-**MVC ile Dinamik Cv Sitesi**
+# MVC ile Dinamik Cv Sitesi
 Bu proje, kullanıcıların özgeçmişlerini oluşturabileceği ve yönetebileceği dinamik bir CV projesidir.
 #### **`Kullanılan Teknolojiler`**
 + C#
